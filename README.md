@@ -8,8 +8,8 @@
 - Blog
 - Portfolio
 - Drag and drop interface
-
-###Code example
+ 
+### Code example
 
 ```ruby
 def my_great_method
